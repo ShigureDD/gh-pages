@@ -1,1 +1,5 @@
-# github.io Page
+# github.io page
+
+## Deploy on local
+
+`npm run deploy`
